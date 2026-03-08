@@ -1,4 +1,12 @@
 # Brain_Tumor_Image_Processing_Classification
+
+🎓 Acknowledgments
+This project is based on the original work by Abdallah Wagih Ibrahim. I have modified and optimized the codebase to include:
+Implementation of Early Stopping to prevent overfitting.
+Detailed Loss and Accuracy trade-off analysis.
+Advanced visualization (Confusion Matrix and Training History).
+Performance tuning for improved validation accuracy.
+
 📝 Project Overview
 An End-to-End Deep Learning pipeline for classifying Brain Tumors from MRI scans. This project converts raw medical imaging data (.mat) into optimized datasets, applies advanced data augmentation, and uses a Transfer Learning approach (ResNet18) to achieve high-accuracy classification across four categories: Glioma, Meningioma, Pituitary, and No Tumor.
 
