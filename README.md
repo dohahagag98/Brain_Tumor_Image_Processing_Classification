@@ -1,0 +1,2 @@
+# Brain_Tumor_Image_Processing_Classification
+"An End-to-End Deep Learning pipeline for classifying Brain Tumors from MRI scans. This project converts raw medical imaging data (.mat) into optimized datasets, applies advanced data augmentation, and uses a Transfer Learning approach (ResNet18) to achieve high-accuracy classification across four categories: Glioma, Meningioma, Pituitary, and No Tumor."
